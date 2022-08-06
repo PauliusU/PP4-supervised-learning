@@ -22,7 +22,7 @@ git clone https://github.com/PauliusU/PP4-supervised-learning.git
 
 2. Navigate into project:
 ```bash
-cd PP3-pandas/
+cd PP4-supervised-learning/
 ```
 
 3. Ensure pipenv is installed:
