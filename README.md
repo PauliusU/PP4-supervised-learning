@@ -9,6 +9,7 @@ Practical Project 4 (PP4) for Artificial Intelligence studies to solidify **supe
 ### Automatic launch
 
 For Windows installation just **run automatic setup script** in `Git Bash`:
+
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/PauliusU/PP4-supervised-learning/master/setup.sh)
 ```
@@ -16,26 +17,31 @@ bash <(curl -s https://raw.githubusercontent.com/PauliusU/PP4-supervised-learnin
 ### Manual launch
 
 1. Clone this repo:
+
 ```bash
 git clone https://github.com/PauliusU/PP4-supervised-learning.git
 ```
 
 2. Navigate into project:
+
 ```bash
 cd PP4-supervised-learning/
 ```
 
 3. Ensure pipenv is installed:
+
 ```bash
 pip install --upgrade pipenv --user
 ```
 
 4. Install dependencies:
+
 ```bash
 pipenv install
 ```
 
 5. Run project:
+
 ```bash
 pipenv run jupyter notebook PP4_supervised_learning.ipynb
 ```
