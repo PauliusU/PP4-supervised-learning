@@ -7,6 +7,7 @@ name = "pypi"
 jupyter = "*"
 sklearn = "*"
 pandas = "*"
+seaborn = "*"
 
 [dev-packages]
 
