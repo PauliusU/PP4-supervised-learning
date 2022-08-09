@@ -1,5 +1,6 @@
 # PP4 supervised learning
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP4-supervised-learning/blob/master/PP4_supervised_learning.ipynb)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/PP4-supervised-learning/blob/master/LICENSE)
 
 Practical Project 4 (PP4) for Artificial Intelligence studies to solidify **supervised learning** basics by practicing.
