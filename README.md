@@ -12,7 +12,7 @@ Project uses famous [Iris flower data set](https://en.wikipedia.org/wiki/Iris_fl
 ### Automatic launch
 
 1. (Recommended) To run in browser click on [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP4-supervised-learning/blob/master/PP4_supervised_learning.ipynb) badge.
-2. Or to launch locally on Windows just **run automatic setup script** in `Git Bash`:
+2. (Or) To launch locally on Windows just **run automatic setup script** in `Git Bash`:
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/PauliusU/PP4-supervised-learning/master/setup.sh)
