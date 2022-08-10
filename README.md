@@ -11,7 +11,7 @@ Project uses famous [Iris flower data set](https://en.wikipedia.org/wiki/Iris_fl
 
 ### Automatic launch
 
-1. (Recommended) To run in browser click on [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP4-supervised-learning/blob/master/PP4_supervised_learning.ipynb) badge.
+1. To run in browser click on [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP4-supervised-learning/blob/master/PP4_supervised_learning.ipynb) badge. `WARNING!` DecisionBoundaryDisplay in the last cell requires sklearn>=1.1 which is not yet supported by the Google Colab.
 2. (Or) To launch locally on Windows just **run automatic setup script** in `Git Bash`:
 
 ```bash
