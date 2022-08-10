@@ -53,8 +53,8 @@ pipenv run jupyter notebook PP4_supervised_learning.ipynb
 - [X] Choose a problem you want to solve. The problem must be a supervised learning problem - regression or classification.
 - [X] Using k-fold cross validation (CV) and/or GridSearch/RandomizedSearch tune a model/ensemble until you get best possible result.
 - [X] Include proof of the process of tuning (for example two cells where you tried some model parameters and another cell where you tried others).
-- [ ] Visualize results - please be sure to visualize the final predictions: decision boundary (classification) or the regression line (regression) need to be added.
-- [ ] Provide a scoring metric - choose as appropriate (r2_score, f1 score, auROC and so on).
+- [X] Visualize results - please be sure to visualize the final predictions: decision boundary (classification) or the regression line (regression) need to be added.
+- [X] Provide a scoring metric - choose as appropriate (r2_score, f1 score, auROC and so on).
 - [ ] Provide a short paragraph (3-10 sentences) on why do you think the parameters you found were the best? Was it related to data distribution, shape, clear decision boundary, dimensionality, etc.?
 - [X] Provide Google Colab link (or GitHub link with .ipynb file).
 
